@@ -58,6 +58,8 @@ p{
     text-overflow: clip;
 } 
 .Reservas{
+    display: flex;
+    justify-content: center;
     background-color: beige;
     width: 900px;
     height: 200px;
@@ -93,7 +95,7 @@ header label:hover{
     cursor:pointer;
     background:rgba(0, 0, 0, 0.5);
 }
-@media(max-width:800px) {
+@media(max-width:1000px) {
 header label{
     display: block;
 }
@@ -203,7 +205,7 @@ button{
     font: 1rem 'Fira Sans', sans-serif;
 }
 
-input,
+
 label {
     margin: .4rem 0;
 }
@@ -261,5 +263,10 @@ text-align: center;
  .Logo3{
     width: 30px;
     height: 30px;
+ }
+
+ footer{
+     background-color: #000000;
+     opacity: 0.;
  }
  
