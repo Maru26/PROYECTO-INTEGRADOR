@@ -45,7 +45,7 @@ body {
 
 
 .Slogan{ 
-  margin-top: 300px;
+  margin-top: 200px;
   font-family: 'Mea Culpa', cursive;
   font-style: italic;
   color: black;
@@ -60,7 +60,7 @@ body {
 
 .Reservas{
     text-align: center;
-   margin-left: 10px;
+   margin-left: 20px;
     display: flex;
     justify-content: center;
     background-color: beige;
@@ -117,7 +117,7 @@ header label{
 }
 }
 .boton{
-    margin-left: 10px;
+    margin-left: 20px;
     opacity: 9;
     display: flex;
     justify-content: center;
