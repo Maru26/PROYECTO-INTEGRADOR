@@ -34,6 +34,8 @@ header{
 }
 
 body {
+    width: 100%;
+    height: auto;
     background-color: #666060 ;
     background-image: url("./imagenes/luxury-hotel-wallpaper-preview.jpg");
     background-repeat: no-repeat;
